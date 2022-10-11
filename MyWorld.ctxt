@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.util.Set\ newBag()
+comment4.params=y
+comment4.target=boolean\ isLineFull(int)
+comment5.params=y
+comment5.target=void\ deleteLine(int)
+comment6.params=
+comment6.target=void\ scan()
+comment7.params=pitch\ length
+comment7.target=void\ play(int,\ int)
+comment8.params=
+comment8.target=void\ stopped()
+numComments=9

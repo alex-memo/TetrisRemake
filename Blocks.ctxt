@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Blocks
+comment1.params=tetramino\ color
+comment1.target=Blocks(Tetramino,\ greenfoot.Color)
+comment2.params=
+comment2.target=boolean\ isGrounded()
+comment3.params=
+comment3.target=Blocks()
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ Passive()
+numComments=7

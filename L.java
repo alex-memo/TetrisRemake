@@ -1,0 +1,12 @@
+import greenfoot.*;  
+public class L extends Tetramino
+{
+    public L() 
+    {
+       super(Color.BLACK); 
+        up = new int[][]{{-1, -1},{0, -1},{0, 0},{0, 1}};
+        right = new int[][]{{-1, 0},{0, 0},{1, 0},{1, -1}};
+        down = new int[][]{{0, -1},{0, 0},{0, 1},{1, 1}};
+        left = new int[][]{{-1, 0},{0, 0},{1, 0},{-1, 1}};
+    }    
+}
